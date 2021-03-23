@@ -33,8 +33,7 @@
 
 5. พิมพ์ pio device monitor เพื่อแสดงผลลัพธ์
 
-![image](https://user-images.githubusercontent.com/80879728/112186433-b6060280-8c33-11eb-864c-f49b56c14bd0.png
-
+![image](https://user-images.githubusercontent.com/80879728/112186803-1432e580-8c34-11eb-89e7-64f498e878b6.png)
 
 
 ## การบันทึกผลการทดลอง
