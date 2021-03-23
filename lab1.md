@@ -14,7 +14,6 @@
 
 ## วิธีการทำการทดลอง
 1. เสียบไมโครคอนโทรลเลอร์เข้ากับ serial port
-
 ![image](https://user-images.githubusercontent.com/80879728/112182393-d3d16880-8c2f-11eb-84e7-47d7d29f53b1.png)
 
 
