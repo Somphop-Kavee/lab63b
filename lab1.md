@@ -14,11 +14,31 @@
 
 ## วิธีการทำการทดลอง
 1. เสียบไมโครคอนโทรลเลอร์เข้ากับ serial port
+
 ![image](https://user-images.githubusercontent.com/80879728/112182393-d3d16880-8c2f-11eb-84e7-47d7d29f53b1.png)
+
+2. เรียกโปรแกรม PATTANI ขึ้นมาจากโฟลเดอร์
+
+![image](https://user-images.githubusercontent.com/80879728/112184017-64f50f00-8c31-11eb-9d27-cfae1f124be3.png)
+
+3. พิมพ์ vi platformio.ini เพื่อแสดงข้อมูลของบอร์ด ESP-01
+
+![image](https://user-images.githubusercontent.com/80879728/112184871-3a578600-8c32-11eb-9d69-585b5fd7a566.png)
+
+4. พิมพ์ pio run -t upload และกดปุ่มสีดำและปุ่มสีแดงเพื่ออัปโหลดโปรกรมเข้าไปในบอร์ด ESP-01
+
+![image](https://user-images.githubusercontent.com/80879728/112185932-409a3200-8c33-11eb-99f8-371f3840e361.png)
+
+![image](https://user-images.githubusercontent.com/80879728/112185987-4abc3080-8c33-11eb-8bdb-892acbc14266.png)
+
+5. พิมพ์ pio device monitor เพื่อแสดงผลลัพธ์
+
+![image](https://user-images.githubusercontent.com/80879728/112186433-b6060280-8c33-11eb-864c-f49b56c14bd0.png
 
 
 
 ## การบันทึกผลการทดลอง
+
 
 ## อภิปรายผลการทดลอง
 
