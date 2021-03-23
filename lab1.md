@@ -4,17 +4,18 @@
 1.เพื่อให้เข้าใจการเขียนโปรแกรมบนไมโครคอนโทรลเลอร์
 
 ## อุปกรณ์ที่ใช้
- 1.บอร์ดไมโครคอนโทรลเลอร์ ESP-01
- 2.สาย USB
- 3.อุปกร์ต่อ USB
- 4.คอมพิวเตอร์
+ *1.บอร์ดไมโครคอนโทรลเลอร์ ESP-01
+ *2.สาย USB
+ *3.อุปกร์ต่อ USB
+ *4.คอมพิวเตอร์
 
 ## ศึกษาข้อมูลเบื้องต้น
 1. 01 run example 1 https://www.youtube.com/watch?v=NLIUsWLEpmg&ab_channel=TANI-IOT
 
 ## วิธีการทำการทดลอง
 1.เสียบไมโครคอนโทรลเลอร์เข้ากับ serial port
-![image](https://user-images.githubusercontent.com/80879728/112180748-683acb80-8c2e-11eb-8228-7ac1c0c8107f.png)
+![image](https://user-images.githubusercontent.com/80879728/112182393-d3d16880-8c2f-11eb-84e7-47d7d29f53b1.png)
+
 
 
 ## การบันทึกผลการทดลอง
