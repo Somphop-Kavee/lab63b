@@ -50,7 +50,7 @@
 
 ## คำถามหลังการทดลอง
 ให้เลือกบอร์ดไมโครคอนโทรลเลอร์มา 1 บอร์ด จาก platformio
-คำตอบ 
+### คำตอบ 
 * Microcontroller	ESP32
 * Frequency	240MHz
 * Flash	3.25MB
