@@ -11,6 +11,7 @@
 
 ## ศึกษาข้อมูลเบื้องต้น
 1. 01 run example 1 https://www.youtube.com/watch?v=NLIUsWLEpmg&ab_channel=TANI-IOT
+2. 06 platformio https://youtu.be/APdBR37Ukxg
 
 ## วิธีการทำการทดลอง
 1. เสียบไมโครคอนโทรลเลอร์เข้ากับ serial port
@@ -37,12 +38,21 @@
 
 
 ## การบันทึกผลการทดลอง
-ชื่อบอร์ดคือ esp01
-framework arduino
-เลขเพิ่มขึ้นทีละ1
+* ชื่อบอร์ดคือ esp01
+* framework arduino
+* เลขเพิ่มขึ้นทีละ1
 
 ## อภิปรายผลการทดลอง
-การเขียนโปรแกรมมีความง่าย
+ส่วนของการเขียนโปรแกรมมี 2 ส่วน คือ
+ * void set up
+ * void loop
+
 
 ## คำถามหลังการทดลอง
 ให้เลือกบอร์ดไมโครคอนโทรลเลอร์มา 1 บอร์ด จาก platformio
+คำตอบ 
+* Microcontroller	ESP32
+* Frequency	240MHz
+* Flash	3.25MB
+* RAM	320KB
+* Vendor	meteca
